@@ -1,0 +1,50 @@
+Circuit: * D:\LTSpice Projects\Buck Converter Design\Buck_Converter.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u1:9)
+Ignoring empty pin current: Ix(u1:10)
+Ignoring empty pin current: Ix(u1:11)
+Ignoring empty pin current: Ix(u1:12)
+Ignoring empty pin current: Ix(u1:13)
+Ignoring empty pin current: Ix(u1:14)
+Ignoring empty pin current: Ix(u1:15)
+Ignoring empty pin current: Ix(u1:16)
+Ignoring empty pin current: Ix(u1:17)
+Ignoring empty pin current: Ix(u1:18)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u1:9)
+Ignoring empty pin current: Ix(u1:10)
+Ignoring empty pin current: Ix(u1:11)
+Ignoring empty pin current: Ix(u1:12)
+Ignoring empty pin current: Ix(u1:13)
+Ignoring empty pin current: Ix(u1:14)
+Ignoring empty pin current: Ix(u1:15)
+Ignoring empty pin current: Ix(u1:16)
+Ignoring empty pin current: Ix(u1:17)
+Ignoring empty pin current: Ix(u1:18)
+Heightened Def Con from 0.0008371 to 0.0008371
+Heightened Def Con from 0.00152389 to 0.00152389
+
+Date: Mon Jan 01 12:33:00 2024
+Total elapsed time: 30.912 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2173170
+traniter = 2173153
+tranpoints = 646446
+accept = 460629
+rejected = 185819
+matrix size = 86
+fillins = 12
+solver = Normal
+Thread vector: 6.7/3.7[5] 3.0/1.8[5] 0.6/0.7[1] 0.2/0.7[1]  2592/500
+Matrix Compiler1: 3.61 KB object code size  0.8/0.4/[0.2]
+Matrix Compiler2: 5.55 KB object code size  0.4/0.7/[0.3]
+
